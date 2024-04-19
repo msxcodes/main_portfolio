@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "title": "BlogX",
+      "category": "Frontend",
+      "github": "Code",
+      "gitLinks": "https://github.com/msxcodes/blogx---blogWeb",
+      "liveLinks" : "https://blogxweb.netlify.app/",
+      "image": "images/blogx01.png"
+    },
+    {
+      "id": 2,
+      "title": "GenzCoder - Portfolio",
+      "category": "Frontend",
+      "github": "Code",
+      "gitLinks": "https://github.com/msxcodes/myPortfolio",
+      "liveLinks" : "https://msxgenzcoder.netlify.app/",
+      "image": "images/msxgenz.png"
+    },
+    
+    {
+      "id": 3,
+      "title": "MyPortfolio",
+      "category": "Frontend",
+      "github": "Code",
+      "gitLinks" : "https://github.com/msxcodes/myportfolio-game",
+      "liveLinks" : "https://genzcoder.netlify.app/",
+      "image": "images/protfolio01.png"
+    },
+    {
+      "id": 4,
+      "title": "ChatBox - Chat UI",
+      "category": "Frontend",
+      "github": "Code",
+      "gitLinks" : "https://github.com/msxcodes/chatBox",
+      "liveLinks" : "https://chatbox-ui.netlify.app/",
+      "image": "images/chatui.png"
+    },
+    {
+      "id": 5,
+      "title": "Typing Web App",
+      "category": "Frontend",
+      "github": "Code",
+      "gitLinks" : "https://github.com/msxcodes/typingWeb",
+      "liveLinks" : "https://msxtype.netlify.app/",
+      "image": "images/msxtype01.png"
+    },
+    {
+      "id": 6,
+      "title": "PokeX - PokeDex App",
+      "category": "Flutter",
+      "github": "Code",
+      "gitLinks" : "https://github.com/msxcodes/PokeX---PokeDex",
+      "liveLinks" : "",
+      "image": "images/pokeX.png"
+    },
+    {
+      "id": 7,
+      "title": "Travel App",
+      "category": "Flutter",
+      "github": "Code",
+      "gitLinks" : "https://github.com/msxcodes/travelApp_flutter",
+      "liveLinks" : "",
+      "image": "images/travelui.png"
+    }
+    
+  ]
+  
