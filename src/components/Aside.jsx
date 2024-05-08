@@ -98,7 +98,7 @@ const Aside = () => {
 
             <div className="contact-info">
               <a
-                href="https://in.linkedin.com/msxcodes"
+                href="https://in.linkedin.com/in/msxcodes"
                 target="_blank"
                 className="contact-link"
               >
